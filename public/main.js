@@ -1,3 +1,4 @@
+// collaborated with Team Hayden to successfully complete the project 
 const bet = document.getElementsByClassName('betChoice');
 const reset = document.getElementById("reset")
 console.log(reset)
@@ -134,3 +135,4 @@ function resetGame() {
   }
   
 };
+// collaborated with Team Hayden to successfully complete the project 
