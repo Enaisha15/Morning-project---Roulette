@@ -1,0 +1,35 @@
+h1{
+  text-align: center;
+  color:gold;
+  font-family: cursive;
+  font-size: 80px;
+}
+.forCss{
+ margin-top:100px ;
+  margin-bottom: 100px;
+  text-align: center;
+}
+.login {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
+/* #button {
+  line-height: 12px;
+  width: 18px;
+  font-size: 8pt;
+  font-family: tahoma;
+  margin-top: 1px;
+  margin-right: 2px;
+  position:absolute;
+  top:0;
+  right:0;
+} */
+ 
+body {
+  background-color: green;
+  font-family: cursive;
+  color: white;
+}
+
